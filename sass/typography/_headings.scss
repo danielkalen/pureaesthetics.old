@@ -1,0 +1,126 @@
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+}
+
+h1 {
+	@include font(lato, 42px, 1em, 300, $primary);
+}
+
+.banner-text {
+	color: $white;
+	background: $primary-weak;
+	// width: auto;
+	float: left;
+	clear: left;
+	// max-width: 620px;
+	line-height: 1.3em;
+	margin: 16px 0 0 0;
+	padding: 0 15px;
+
+		@media screen and (max-width:700px) {
+			font-size: 29px;
+			// max-width: 430px;
+			margin-left: 15px;
+			padding: 0 11px;
+		}
+
+		@media screen and (max-width:460px) {
+			font-size: 19px;
+			// max-width: 300px;
+			margin: 10px 0 0 13px;
+			padding: 0 9px;
+		}
+}
+
+
+
+h1.special {
+	font-size: 61px;
+	text-align: center;
+
+	@media screen and (max-width:460px) {
+		font-size: 45px;
+	}
+}
+
+h1.extra {
+	color: $white;
+	font-size: 68px;
+
+		@media screen and (max-width:950px) {
+			font-size: 7vw;
+		}
+
+		@media screen and (max-width:600px) {
+			text-align: center;
+			font-size: 46px;
+			// margin-right: 60px;
+		}
+	// @media screen and (max-width:460px) {
+	// 	font-size: 49px;
+	// }
+}
+
+
+h2.extra {
+	color: $white;
+	font-size: 28px;
+
+		@media screen and (max-width:950px) {
+			font-size: 2.6vw;
+		}
+
+		@media screen and (max-width:600px) {
+			text-align: center;
+			font-size: 18px;
+			line-height: 1.2em;
+			// margin-right: 60px;
+		}
+
+		@media screen and (max-width:370px) {
+			font-size: 15px;
+		}
+}
+
+
+
+h2 {
+	@include font(lato,52px,1em,300,$primary);
+
+	@media screen and (max-width:760px) {
+		font-size: 46px;	
+	}
+}
+
+h3 {
+	@include font(lato,24px,1em,400,$primary)
+}
+
+h4 {
+	@include font(lato,19px,1em,400,$grey);
+
+	@media screen and (max-width:760px) {
+		font-size: 17px;
+		line-height: 1.2em;
+		width: 90%;
+		margin: 0 auto;
+	}
+}
+
+h5 {
+	@include font(lato,40px,1em,300,$primary);
+
+	@media screen and (max-width:760px) {
+		font-size: 30px;
+	}
+
+}
+
+h6 {
+	@include font(lato,30px,1em,300,$white);
+}
+
+h6.service-title {
+	font-weight: 400;
+	color: $primary;
+}

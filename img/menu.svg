@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="78px" height="72px" viewBox="0 0 78 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8054) - http://www.bohemiancoding.com/sketch -->
+    <title>menu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="menu" sketch:type="MSLayerGroup" fill="#F8F8F8">
+            <g id="Group" sketch:type="MSShapeGroup">
+                <path d="M6.5,13 L71.301,13 C74.891,13 77.801,10.09 77.801,6.5 C77.801,2.91 74.891,0 71.301,0 L6.5,0 C2.91,0 0,2.91 0,6.5 C0,10.09 2.91,13 6.5,13 L6.5,13 Z" id="Shape"></path>
+                <path d="M71.301,29.078 L6.5,29.078 C2.91,29.078 0,31.988 0,35.578 C0,39.167 2.91,42.078 6.5,42.078 L71.301,42.078 C74.891,42.078 77.801,39.168 77.801,35.578 C77.801,31.988 74.891,29.078 71.301,29.078 L71.301,29.078 Z" id="Shape"></path>
+                <path d="M71.301,58.16 L6.5,58.16 C2.91,58.16 0,61.069 0,64.66 C0,68.25 2.91,71.16 6.5,71.16 L71.301,71.16 C74.891,71.16 77.801,68.25 77.801,64.66 C77.801,61.069 74.891,58.16 71.301,58.16 L71.301,58.16 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

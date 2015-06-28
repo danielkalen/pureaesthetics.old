@@ -1,0 +1,91 @@
+
+.page-id-16 .semi-hero {
+	background: url(img/divider-bg.jpg) 50%;
+	background-size:cover;
+}
+
+
+.section-about {
+	@include clearfix-dk();
+	margin: 60px 0;
+
+		h5 {
+			margin: 0 0 28px;
+		}
+
+		.different-site-wrap > div {
+			float: left;
+
+				@media screen and (max-width:760px) {
+					float: none;
+				}
+		}
+
+		.about {
+			width: 65%;
+
+				@media screen and (max-width:760px) {
+					width: 100%;
+					margin-bottom: 50px;
+				}
+		}
+
+		.our-vision {
+			width: 33%;
+			margin: 0 0 0 2%;
+
+				@media screen and (max-width:760px) {
+					width: 100%;
+					margin: 0;
+				}
+		}
+}
+
+.logo-about {
+	background: url(img/logo-smaller.png);
+	background-repeat: no-repeat;
+	width: 261px;
+	height: 49px;
+	float: left;
+	padding: 0 25px 15px 0;
+	margin-top: 15px;
+}
+
+.vision {
+	width: 100%;
+	// max-width: 233px;
+	margin-left: 3%;
+	// margin-right: 5%;
+	border: 2px solid $primary;
+	border-radius: 5px;
+	position: relative;
+	box-sizing:border-box;
+	padding: 15px;
+
+		@media screen and (max-width:760px) {
+			width: 85%;
+			max-width: 355px;
+			margin: 0 auto;
+		}
+
+		.icon-vision {
+			position: absolute;
+			left: -29px;
+			top: -29px;
+		}
+}
+
+.our-vision {
+	h5 {margin-bottom: 50px;}
+}
+
+.vision-text{
+	-webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	-ms-hyphens: auto;
+	hyphens: auto;
+	line-height: 20px;
+}
+
+
+

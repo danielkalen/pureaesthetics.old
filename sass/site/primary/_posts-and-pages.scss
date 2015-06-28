@@ -1,0 +1,64 @@
+
+.hentry {
+	margin: 0 0 1.5em;
+}
+
+
+.single .byline,
+.group-blog .byline {
+	display: inline;
+}
+
+#content {
+	padding-top: 112px;
+
+	@media screen and (max-width:760px) {
+		padding-top: 86px;
+	}
+}
+
+.site-wrap {
+	width: 100%;
+	max-width: 1064px;
+	margin: 0 auto;
+
+	.page-id-18 &, .page-id-16 & {
+		height: 100%;
+	}
+}
+
+.mobile-site-wrap {
+	@media screen and (max-width:1064px) {
+		// padding: 0 0 0 30px;
+		margin: 0 auto;	
+		width: 94%;
+	}
+	width: 100%;
+	height: 100%;
+}
+
+.different-site-wrap {
+	@media screen and (max-width:1064px) {
+		width: 94%;
+		margin: 0 auto;
+	}
+	width: 100%;
+	height: 100%;
+}
+
+.vertical-align {
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+	height: auto;
+}
+
+.error-404 {
+	padding: 250px 0;
+
+		h1 {
+			margin-bottom: 40px;
+		}
+}

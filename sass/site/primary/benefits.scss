@@ -1,0 +1,134 @@
+.section-services {
+	text-align: center;
+	margin-top: 75px;
+	clear: both;
+
+		@media screen and (max-width:760px) {
+			margin-top: 50px;
+		}
+
+		h4 {margin-top: 25px;}
+}
+
+.service-list {
+	margin-top: 40px;
+	clear: both;
+
+
+		.service-container {
+			padding: 30px;
+		}
+
+
+		.benefit {
+			float: left;
+			width: 30%;
+			max-width: 330px;
+
+				@media screen and (max-width:800px) {
+					float: none;
+					width: 100%;
+					margin: 0 auto;
+				}
+
+				h3 {
+					margin-top: 26px;
+					a {color: $primary !important;}
+				}
+
+				.service-short-desc {
+					margin-top: 13px;
+					color: $grey;
+					line-height: 20px;
+				}
+
+				.service-photo {
+					width: 148px;
+					height: 148px;
+					display: block;
+					border-radius: 50%;
+					margin: 0 auto;
+					position: relative;
+					overflow: hidden;
+				}
+
+				.service-photo {
+					display: block;
+
+						&:before {
+							content: '';
+							position: absolute;
+							display: block;
+							width: 100%;
+							height: 100%;
+							background: $primary-weak;
+							opacity: 0;
+							transition: opacity 0.3s;
+							border-radius: 50%;
+							z-index: 2;
+						}
+
+						&:after {
+							content: 'View';
+							position: absolute;
+							display: block;
+							z-index: 5;
+							color: $primary;
+							background: $white;
+							width: 45px;
+							height: 45px;
+							line-height: 45px;
+							border-radius: 50%;
+							font-size: 14px;
+							margin: 0 auto;
+							left: 0;
+							right: 0;
+							top: 50%;
+							-webkit-transform: translateY(-50%);
+							-o-transform: translateY(-50%);
+							transform: translateY(-50%);
+							opacity: 0;
+							transition: opacity 0.3s;
+							
+						}
+				}
+
+				&:hover .service-photo {
+						&:before {
+							opacity:1;
+							transition: opacity 0.3s;
+						}
+						&:after {
+							opacity:1;
+							transition: opacity 0.3s;
+						}
+				}
+		}
+
+		.skin-tightening .service-photo {
+			background-image: url(img/facial-service.jpg);
+		}
+
+		.laser-hair .service-photo {
+			background-image: url(img/hair-service.jpg);
+		}
+
+		.facial .service-photo {
+			background-image: url(img/skin-service.jpg);
+		}
+
+
+		.benefit.laser-hair {
+			margin: 0 5%;
+
+			@media screen and (max-width:800px) {
+				margin: 70px auto;
+			}
+		}
+
+		.benefit.facial {
+			margin-bottom: 95px;
+		}
+
+
+}
