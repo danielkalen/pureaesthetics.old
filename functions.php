@@ -94,7 +94,7 @@ add_action( 'widgets_init', 'pureaesthetics_widgets_init' );
 function pureaesthetics_scripts() {
 	wp_enqueue_style( 'pureaesthetics-style', get_stylesheet_uri() );
 
-	wp_enqueue_script( 'pureaesthetics-navigation', get_template_directory_uri() . '/js/main.min.js', array(), true, true );
+	wp_enqueue_script( 'pureaesthetics-navigation', get_template_directory_uri() . '/js/main.min.js', array('jquery'), true, true );
 
 
 	// if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
