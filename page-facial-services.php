@@ -101,7 +101,7 @@ get_header(); ?>
 			<div class="different-site-wrap">
 				<div class="vertical-align">
 					<div class="right">
-						<h6 class="service-title">Microbermabrasion</h6>
+						<h6 class="service-title">Microdermabrasion</h6>
 						<p class="service-desc">
 							A method of exfoliation that uses a machine to remove dead surface skin cells and initiate cellular turnover. Stimulates blood circulation and revitalizes collagen production, which promotes younger-looking skin. 
 						</p>
