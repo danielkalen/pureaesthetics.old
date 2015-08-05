@@ -17,7 +17,7 @@ get_header(); ?>
 				<li><a href="#acne-facials">Acne Facials</a></li>
 				<li><a href="#anti-aging">Anti-Aging Facials</a></li>
 				<li><a href="#red-carpet">Red Carpet Facials</a></li>
-				<li><a href="#microbermabrasion">Microbermabrasion</a></li>
+				<li><a href="#microbermabrasion">Microdermabrasion</a></li>
 				<li><a href="#clinical">Clinical Facials</a></li>
 				<li><a href="#sea-herbal-peel">Sea Herbal Peel</a></li>
 				<li><a href="#enzyme-peel">Enzyme Peel</a></li>
