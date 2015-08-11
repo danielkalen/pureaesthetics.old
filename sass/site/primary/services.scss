@@ -168,7 +168,8 @@
 }
 
 #acne-facials:after {
-	background: url(img/anti-aging-bg.jpg) 50%;
+	// background: url(img/anti-aging-bg.jpg) 50%;
+	background: url(img/skin-bg.jpg) 50%;
 
 		@media screen and (max-width:1000px) {
 			opacity: .35;
@@ -184,14 +185,15 @@
 }
 
 #red-carpet:after {
-	background: url(img/skin-bg.jpg) 50%;
+	// background: url(img/skin-bg.jpg) 50%;
+	background: url(img/anti-aging-bg.jpg) 50%;
 		@media screen and (max-width:850px) {
 			opacity: .35;
 		}
 }
 
 #skin-rejuvenation:after {
-	background: url(img/skin-bg.jpg) 50%;
+	background: url(img/skin-bg-reverse.jpg) 50%;
 }
 
 #microbermabrasion:after {
@@ -225,6 +227,16 @@
 		@media screen and (max-width:760px) {
 			background-position: 60%;
 		}
+}
+
+#endymed:after {
+	background: url(img/endymed.jpg) 0%;
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+
+		// @media screen and (max-width:760px) {
+		// 	background-position: 60%;
+		// }
 }
 
 #lase-one:after {

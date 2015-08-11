@@ -53,9 +53,12 @@ get_header(); ?>
 			<div class="different-site-wrap">
 				<div class="vertical-align">
 					<div class="right">
-						<h6 class="service-title">Anti-Aging Facials</h6>
+						<h6 class="service-title">Acne Facials</h6>
 						<p class="service-desc">
 							Both men and women can take advantage of the benefits of acne facials. Our active but not aggressive method is specifically formulated for acneaic skin to restore the skin’s radiance, improve clarity, reduce blemishes and soothe inflammation. Our treatment is customized for the skin type and skin condition. The use of a home care regimen is needed to maintain the best results post treatment. Suitable for acne of all ages. 
+							<br />
+							<br />
+							<span><a href="//www.youtube.com/watch?v=qnDJSORRngA">Click here to learn more about our Acne Facials</a></span>
 						</p>
 						<div class="button button-large"><p>Call For Pricing</p></div>
 					</div>

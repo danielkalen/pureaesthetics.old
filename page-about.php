@@ -30,8 +30,8 @@ get_header(); ?>
 					<br /><br />
 					Her specialties include skin analysis, customized facials, acne treatment and prevention, microdermabrasion skin peel, chemical peels, Mesotherapy, and Microcurrent “Lunchtime” face lift. She performs laser hair removal and electrolysis, specializes in facial threading and also does waxing services.
 
-					<br /><br />
-					Adina’s passion for skin care was evident at a young age. Before moving to New York, she worked as a licensed practical nurse (L.P.N.) in Israel and involved herself in the aesthetic industry. Upon arriving to the US, Adina trained to obtain her license from Atelier Esthetique of Aesthetics and is now a New York State licensed Clinical Aesthetician and a Certified Laser Specialist.</p>
+<!-- 					<br /><br />
+					Adina’s passion for skin care was evident at a young age. Before moving to New York, she worked as a licensed practical nurse (L.P.N.) in Israel and involved herself in the aesthetic industry. Upon arriving to the US, Adina trained to obtain her license from Atelier Esthetique of Aesthetics and is now a New York State licensed Clinical Aesthetician and a Certified Laser Specialist.</p>  -->
 				</div>
 				<div class="our-vision">
 					<h5>Our Vision</h5>

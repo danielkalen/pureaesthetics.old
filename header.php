@@ -40,8 +40,8 @@
 				<li class="services"><a href="facial-services">Services</a>
 					<div class="submenu">
 						<a href="facial-services" class="submenu-link">Facial Services</a>
-						<a href="skin-tightening" class="submenu-link">Skin Tightening</a>
 						<a href="laser-hair-removal" class="submenu-link">Laser Hair Removal</a>
+						<a href="skin-tightening" class="submenu-link">Skin Tightening</a>
 					</div>
 				</li>
 				<li class="about"><a href="about">About</a></li>
@@ -56,8 +56,8 @@
 					<ul>
 						<li><a href="home">Home</a></li>
 						<li><a href="facial-services">Facial Services</a></li>
-						<li><a href="skin-tightening">Skin Tightening</a></li>
 						<li><a href="laser-hair-removal">Laser Hair Removal</a></li>
+						<li><a href="skin-tightening">Skin Tightening</a></li>
 						<li><a href="about">About</a></li>
 						<li><a href="contact">Contact</a></li>
 					</ul>
