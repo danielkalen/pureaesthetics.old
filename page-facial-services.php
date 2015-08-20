@@ -58,7 +58,7 @@ get_header(); ?>
 							Both men and women can take advantage of the benefits of acne facials. Our active but not aggressive method is specifically formulated for acneaic skin to restore the skin’s radiance, improve clarity, reduce blemishes and soothe inflammation. Our treatment is customized for the skin type and skin condition. The use of a home care regimen is needed to maintain the best results post treatment. Suitable for acne of all ages. 
 							<br />
 							<br />
-							<span><a href="https://youtu.be/IC95M8J" target="_blank">Click here to learn more about our Acne Facials</a></span>
+							<span><a href="https://youtu.be/IC95M8JwU5Q" target="_blank">Click here to learn more about our Acne Facials</a></span>
 						</p>
 						<div class="button button-large"><p>Call For Pricing</p></div>
 					</div>
