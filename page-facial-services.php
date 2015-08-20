@@ -58,7 +58,7 @@ get_header(); ?>
 							Both men and women can take advantage of the benefits of acne facials. Our active but not aggressive method is specifically formulated for acneaic skin to restore the skin’s radiance, improve clarity, reduce blemishes and soothe inflammation. Our treatment is customized for the skin type and skin condition. The use of a home care regimen is needed to maintain the best results post treatment. Suitable for acne of all ages. 
 							<br />
 							<br />
-							<span><a href="//www.youtube.com/watch?v=qnDJSORRngA">Click here to learn more about our Acne Facials</a></span>
+							<span><a href="https://youtu.be/IC95M8J" target="_blank">Click here to learn more about our Acne Facials</a></span>
 						</p>
 						<div class="button button-large"><p>Call For Pricing</p></div>
 					</div>
@@ -139,6 +139,9 @@ get_header(); ?>
 						<h6 class="service-title">Sea Herbal Peel</h6>
 						<p class="service-desc">
 							A 100% natural sea herbal peel designed to leave skin looking young and healthy, inside and out. The Rose de Mer peeling solution gives visible improvement to a variety of skin conditions and is suitable for a wide range of skin types and ages. Benefits include improved blood circulation and oxygen supply, the lightening of acne scarring and hyperpigmentation, the creation of a natural face lift appearance, as well as the diminishing of wrinkles, fine lines, and stretch marks. A home-care kit should be purchased upon receiving the treatment.
+							<br />
+							<br />
+							<span><a href="https://youtu.be/6JqZCuFaTrE" target="_blank">Click here to learn more about our Sea Herbal Peel</a></span>
 						</p>
 						<div class="button button-large"><p>Call For Pricing</p></div>
 					</div>
@@ -171,6 +174,9 @@ get_header(); ?>
 						<h6 class="service-title">Green Peel</h6>
 						<p class="service-desc">
 							A 100% pure botanical peeling solution that is designed to improve your overall skin appearance, followed by a seaweed mask. Benefits include the enhancement of blood circulation, the acceleration of tissue repair, a gentle exfoliation of damaged skin, along with combating seborrhea.
+							<br />
+							<br />
+							<span><a href="https://youtu.be/wd-bnJEeGrU" target="_blank">Click here to learn more about our Green Peel/BioPhyto</a></span>
 						</p>
 						<div class="button button-large"><p>Call For Pricing</p></div>
 					</div>
