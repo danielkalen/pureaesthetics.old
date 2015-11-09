@@ -28,13 +28,13 @@ get_header(); ?>
 			      function initialize() {
 			        var mapCanvas = document.getElementById('map-canvas');
 			        var mapOptions = {
-			          center: new google.maps.LatLng(40.62051, -73.72431),
+			          center: new google.maps.LatLng(40.6228784, -73.7270212),
 			          zoom: 18,
 			          mapTypeId: google.maps.MapTypeId.ROADMAP
 			        }
 			        var map = new google.maps.Map(mapCanvas, mapOptions);
 					var marker=new google.maps.Marker({
-					  position:new google.maps.LatLng(40.62051, -73.72431),
+					  position:new google.maps.LatLng(40.6228784, -73.7270212),
 					  });
 
 					marker.setMap(map);
@@ -55,7 +55,7 @@ get_header(); ?>
 						<div class="contact-icon icon-phone"></div>
 						<div class="contact-details">
 							<p class="contact-title">Phone</p>
-							<p class="contact-text">(800) 888-8888<br />(718) 717-9806</p>
+							<p class="contact-text">(718) 717-9806</p>
 						</div>
 					</div>
 					<div class="contact-item second">
@@ -69,7 +69,7 @@ get_header(); ?>
 						<div class="contact-icon icon-address"></div>
 						<div class="contact-details">
 							<p class="contact-title">Address</p>
-							<p class="contact-text">82 Spurce Street, Cederhurst<br />NY 11516</p>
+							<p class="contact-text">499 Chestnut Street Suite #110,<br />Cederhurst NY 11516</p>
 						</div>
 					</div>
 					<div class="contact-item fourth">
