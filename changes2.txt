@@ -1,0 +1,51 @@
+-Services
+	-Facials
+		
+		-Anti-aging facials
+			= change anti-aging facials to 'Elinor Panovsky' before/after image.
+
+		-Red Carpet facials
+			= add youtube link to the bottom ( https://youtu.be/-p7UiCq9_tc )
+
+		-Clinical Facials
+			= add a merged image of ['preventec-glyco active cream', 'safe peel', 'Azel-x cream']
+
+		-Green peel
+			= add the photo of the man with the green peel
+
+		-Sea herbal peel
+			= add the photo of the woman with the brown cricle being rubbed against her face.
+
+		-Enzyme peel
+			= add photo of the pumpkin
+
+		-LED mesotherapy
+			= move to skin tighting page
+			= add led treatment image
+
+
+	-Laser Hair removal
+		-Eyebrow
+			= change font weight to 400 to make it more readable.
+			= create a new service page (hair removal) and move it to there
+
+
+	-Skin-thigting
+
+		-Skin Rejuv
+			= change photo to the one I extracted from the PDF
+
+		-Pure by Endymed
+			= change last word to contouring
+			= remove "we also provide skin tag removal..." text
+
+
+
+-About us page
+	-Hero
+		= change font weight of the subtitle to 400
+
+
+-Contact info change (footer & in contact page)
+	-Change email to adina@pureaesthetics.net
+	-Change address to '499 chestnut st, suite 110, Cederhurst NY 11516'

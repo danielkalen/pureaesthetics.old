@@ -66,6 +66,7 @@ function pureaesthetics_setup() {
 		'default-color' => 'ffffff',
 		'default-image' => '',
 	) ) );
+	// add_theme_support( 'title-tag' );
 }
 endif; // pureaesthetics_setup
 add_action( 'after_setup_theme', 'pureaesthetics_setup' );

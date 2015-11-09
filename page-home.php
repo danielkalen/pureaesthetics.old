@@ -53,7 +53,57 @@ get_header(); ?>
 			<div class="testimonials">
 				<div class="section-wrap">
 					<h5>Client Testimonials</h5>
-					<?php echo do_shortcode("[show-testimonials orderby='menu_order' order='ASC' limit='2' layout='grid' options='theme:none,info-position:info-left,text-alignment:left,columns:2,charlimit:164,charlimitextra:...,display-image:on,image-size:thumbnail,image-shape:circle,image-effect:none,image-size-override:98x98,richsnippets:true']"); ?>
+					<?php //echo do_shortcode("[show-testimonials orderby='menu_order' order='ASC' limit='2' layout='grid' options='theme:none,info-position:info-left,text-alignment:left,columns:2,charlimit:164,charlimitextra:...,display-image:on,image-size:thumbnail,image-shape:circle,image-effect:none,image-size-override:98x98,richsnippets:true']"); ?>
+					<div id="ttshowcase_0">
+						<div class="ttshowcase_wrap tt_theme_none">
+							<div itemscope="" itemtype="http://schema.org/Product">
+								<meta itemprop="name" content="Pure Aesthetics">
+								<div class="ttshowcase_rl_box tt_2cl tt_text_left ">
+									<div itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+										<div class="ttshowcase_rl_breed">
+											<div class="ttshowcase_rl_info_wrap tt_info-left tt_text_center">
+												<div class="icon-quote"></div>
+												<div class="ttshowcase_rl_image tt_img_circle tt_img_none"><img src="http://pureaesthetics.com:8888/wp-content/uploads/2014/12/profile-pic-b.jpg" alt="Lara Smith" width="98" height="98"></div>
+												<div class="ttshowcase_rl_aditional_info ">
+													<meta itemprop="datePublished" content="December 2, 2014">
+												</div>
+											</div>
+											<div class="tt_quote_info-left ttshowcase_rl_quote_sided summary">
+												<div class="ttshowcase_rl_quote">
+													<p>Keeping my skin rejuvinated and healthy is the most important thing in the world for me. After having such a hard time looking for a perfect skin care salon....</p>
+												</div>
+												<div class="ttshowcase_rl_subtitle"><span class="ttshowcase_rl_title reviewer">— <span itemprop="author">Lara Smith</span>, </span>Director, Maili Skincare</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="ttshowcase_rl_box tt_2cl tt_text_left ">
+									<div itemprop="review" itemscope="" itemtype="http://schema.org/Review">
+										<div class="ttshowcase_rl_breed">
+											<div class="ttshowcase_rl_info_wrap tt_info-left tt_text_center">
+												<div class="icon-quote"></div>
+												<div class="ttshowcase_rl_image tt_img_circle tt_img_none"><img src="http://pureaesthetics.com:8888/wp-content/uploads/2014/12/profile-pic-a.jpg" alt="Jane Laura" width="98" height="98"></div>
+												<div class="ttshowcase_rl_aditional_info ">
+													<meta itemprop="datePublished" content="December 2, 2014">
+												</div>
+											</div>
+											<div class="tt_quote_info-left ttshowcase_rl_quote_sided summary">
+												<div class="ttshowcase_rl_quote">
+													<p>Keeping my skin rejuvinated and healthy is the most important thing in the world for me. After having such a hard time looking for a perfect skin care salon....</p>
+												</div>
+												<div class="ttshowcase_rl_subtitle"><span class="ttshowcase_rl_title reviewer">— <span itemprop="author">Jane Laura</span>, </span>CEO, Hava Zingboim</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+									<meta itemprop="ratingValue" content="0">
+									<meta itemprop="reviewCount" content="2">
+								</div>
+							</div>
+						</div>
+					</div>
+
 				</div>
 			</div>
 			<div class="video">
