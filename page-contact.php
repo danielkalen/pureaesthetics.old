@@ -40,7 +40,7 @@ get_header(); ?>
 					marker.setMap(map);
 
 					var infowindow = new google.maps.InfoWindow({
-					  content:"<strong>Pure Aesthetics</strong><br />82 Spurce Street<br />Cederhurst NY 11516<br />(718) 717-9806"
+					  content:"<strong>Pure Aesthetics</strong><br />499 Chestnut Street Suite #110<br />Cederhurst NY 11516<br />(718) 717-9806"
 					  });
 
 					google.maps.event.addListener(marker, 'click', function() {

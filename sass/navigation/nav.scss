@@ -22,13 +22,17 @@
 	margin: 0 auto;
 	height: 100%;
 
-
+		> a {
+			position: relative;
+			display: block;
+			height: 100%;
+			float: left;
+		}
 		.site-branding {
 			background-image: url(img/logo.png);
 			width: 293px;
 			height: 55px;
 			display: block;
-			float: left;
 			position: relative;
 			top: 50%;
 			-webkit-transform: translateY(-50%);

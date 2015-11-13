@@ -56,7 +56,7 @@
 						</div>
 						<div class="contact last">
 							<div class="icon-f-address"></div>
-							<div class="detail">499 Chestnut St STE 110 Cedarhurst NY 11516</div>
+							<div class="detail">499 Chestnut Street Suite #110, Cedarhurst NY 11516</div>
 						</div>
 					</div>
 					<div class="section-wrap social-us">
