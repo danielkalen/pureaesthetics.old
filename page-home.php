@@ -63,7 +63,7 @@ get_header(); ?>
 										<div class="ttshowcase_rl_breed">
 											<div class="ttshowcase_rl_info_wrap tt_info-left tt_text_center">
 												<div class="icon-quote"></div>
-												<div class="ttshowcase_rl_image tt_img_circle tt_img_none"><img src="http://pureaesthetics.com:8888/wp-content/uploads/2014/12/profile-pic-b.jpg" alt="Lara Smith" width="98" height="98"></div>
+												<div class="ttshowcase_rl_image tt_img_circle tt_img_none"><img src="http://pureaesthetics.net/wp-content/themes/pureaesthetics/img/profile-pic-b.jpg" alt="Lara Smith" width="98" height="98"></div>
 												<div class="ttshowcase_rl_aditional_info ">
 													<meta itemprop="datePublished" content="December 2, 2014">
 												</div>
@@ -82,7 +82,7 @@ get_header(); ?>
 										<div class="ttshowcase_rl_breed">
 											<div class="ttshowcase_rl_info_wrap tt_info-left tt_text_center">
 												<div class="icon-quote"></div>
-												<div class="ttshowcase_rl_image tt_img_circle tt_img_none"><img src="http://pureaesthetics.com:8888/wp-content/uploads/2014/12/profile-pic-a.jpg" alt="Jane Laura" width="98" height="98"></div>
+												<div class="ttshowcase_rl_image tt_img_circle tt_img_none"><img src="http://pureaesthetics.net/wp-content/themes/pureaesthetics/img/profile-pic-a.jpg" alt="Jane Laura" width="98" height="98"></div>
 												<div class="ttshowcase_rl_aditional_info ">
 													<meta itemprop="datePublished" content="December 2, 2014">
 												</div>
